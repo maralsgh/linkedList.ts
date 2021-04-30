@@ -96,11 +96,11 @@ class LinkedList<T> {
 
 }
 
-var linek = new LinkedList();
-// console.log(linek.isEmpty());
-linek.insertFirst('maral');
-linek.insertFirst('uuu');
-linek.insertFirst('yyy');
-linek.insertLast('hhh');
-linek.removeFirst();
-console.log(linek);
+var link = new LinkedList();
+// console.log(link.isEmpty());
+link.insertFirst('maral');
+link.insertFirst('uuu');
+link.insertFirst('yyy');
+link.insertLast('hhh');
+link.removeFirst();
+console.log(link);
